@@ -35,7 +35,7 @@ public class CreateAccount extends TestRunner {
         createAccount.setPassword("qwerty");
         createAccount.getReceiveOffers().click();
         createAccount.getSaveButton().click();
-        
+
 
         //Assert
         Assert.assertTrue(createAccount.getSighOutButton().isDisplayed());
