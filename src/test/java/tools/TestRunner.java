@@ -39,7 +39,7 @@ public abstract class TestRunner {
 
     @BeforeMethod
     public void beforeMethod() {
-        driver.get("http://ec2-18-188-209-124.us-east-2.compute.amazonaws.com/en");
+        driver.get("http://35.225.39.45/index.php");
     }
 
     protected HomePage loadApplication() {
