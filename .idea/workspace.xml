@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e664e54b-5a56-440f-a722-af48656adf28" name="Default Changelist" comment="screenshot" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <list default="true" id="e664e54b-5a56-440f-a722-af48656adf28" name="Default Changelist" comment="screenshot">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPageO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/LogInRegisteredUserFail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/LogInRegisteredUserFail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestLoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestLoginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/Currencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/Currencies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/CategoryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CategoryPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/MyAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/MyAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ProductComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ProductComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ProductListComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ProductListComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/SearchEmptyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SearchEmptyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/SearchResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SearchResultPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/SelectSomeClothesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SelectSomeClothesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ShoppingCartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ShoppingCartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/UserInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/UserInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/AllureTestCurrency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/AllureTestCurrency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/CurrencyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CurrencyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/HorizontalAndVerticalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/HorizontalAndVerticalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/LogInRegisteredUserFail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/LogInRegisteredUserFail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestCartFunctional.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestCartFunctional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestLoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestLoginForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testAPI/testAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testAPI/testAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tools/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tools/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1694">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="1408">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,20 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tools/TestRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="220">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -110,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="359" selection-start-line="359" selection-end-line="359" />
+            <state relative-caret-position="5830">
+              <caret line="348" column="3" selection-start-line="348" selection-start-column="3" selection-end-line="348" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,7 +170,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pages/LoginPageO.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/LogInRegisteredUserFail.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/tools/TestRunner.java" />
       </list>
     </option>
   </component>
@@ -186,45 +209,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +285,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/DevOps" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -381,12 +433,6 @@
     <history-entry file="E__demo3_Prestashop_testng_xml - 2019.08.05 at 23h 33m 14s.xml">
       <configuration name="E:/demo3/Prestashop/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__demo3_Prestashop_testng_xml - 2019.08.27 at 10h 52m 13s.xml">
-      <configuration name="E:/demo3/Prestashop/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__demo3_Prestashop_testng_xml - 2019.08.27 at 11h 00m 29s.xml">
-      <configuration name="E:/demo3/Prestashop/testng.xml" configurationId="TestNG" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="63993000" />
@@ -402,10 +448,10 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Learn" order="5" weight="0.3295302" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.25899744" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.25578406" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,6 +574,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tools/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/MyAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -608,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="1408">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -639,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        <state relative-caret-position="5830">
+          <caret line="348" column="3" selection-start-line="348" selection-start-column="3" selection-end-line="348" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -649,15 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tools/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
